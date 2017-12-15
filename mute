@@ -1,0 +1,32 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.PauseIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.ResumeIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopAction<object@MusicCreativeWork>"
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": [
+          "trigger lockdown"
+        ]
+      }
+    ],
+    "invocationName": "trigger lockdown"
+  }
+}
